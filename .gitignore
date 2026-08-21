@@ -1,0 +1,33 @@
+# Node
+**/node_modules/
+**/dist/
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/.venv/
+
+# Environment
+**/.env
+**/.env.*
+
+# OS
+.DS_Store
+
+frontend/node_modules/
+frontend/dist/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.env
+.env.*
+!.env.example
+
+.DS_Store
+.vscode/
+.idea/
+
+*.log
