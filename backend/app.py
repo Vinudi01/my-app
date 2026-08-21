@@ -8,7 +8,7 @@ CORS(app)
 @app.route("/api/message")
 def message():
     return {
-        "message": "Hello From Docker + Github Actions + Kubernetes! Berhasil!!!"
+        "message": "Hello From Docker + Github Actions + Kubernetes Berhasil!!!"
     }
 
 
